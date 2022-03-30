@@ -1,6 +1,6 @@
-### Olá! Eu sou Michael Douglas
+### Olá! Eu sou o Michael Douglas
 
-- 🌱 Estudando Frontend e Backend
+- 🌱 Atualmente estudando Frontend e Backend
 - 😄 Pronouns: Ele/Dele
 <div align="center" >
   <a href="https://github.com/michaeld555">
