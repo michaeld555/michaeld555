@@ -6,8 +6,6 @@ Eu sou Michael Douglas
 
 - 😄 Pronouns: Ele/Dele
 
-- 📚 Cursando ADS
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeld555&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeld555&layout=compact&theme=tokyonight"/>
@@ -33,7 +31,6 @@ Eu sou Michael Douglas
   <img align="center" alt="Michael-Php" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Michael-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Michael-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Michael-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Michael-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 
