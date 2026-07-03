@@ -26,7 +26,6 @@ Atuo em todo o ciclo de vida do software, do levantamento de requisitos à entre
 - **Integrações:** APIs, pagamentos e serviços bancários com Mercado Pago, Sicoob e Santander
 - **Infraestrutura e entrega:** Docker, CI/CD, GitHub, GitLab, AWS e Azure
 - **Práticas:** código limpo, boas práticas, Scrum e Kanban
-- **Pronomes:** ele/dele
 
 ## Ecossistema principal
 
