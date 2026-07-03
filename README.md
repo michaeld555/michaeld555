@@ -1,12 +1,12 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5FBF,100:4286F5&height=190&section=header&text=Michael%20Douglas&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=19"
+    src="./assets/header.svg"
     alt="Michael Douglas — Desenvolvedor Full Stack Web e Mobile"
   />
 
   <p>
-    Desenvolvedor Full Stack com mais de 3 anos de experiência<br />
+    Desenvolvedor Full Stack com mais de 4 anos de experiência<br />
     criando soluções web e mobile de ponta a ponta.
   </p>
 

@@ -1,0 +1,48 @@
+<svg
+  width="1200"
+  height="190"
+  viewBox="0 0 1200 190"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient
+      id="header-gradient"
+      x1="0"
+      y1="0"
+      x2="1200"
+      y2="0"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#1F5FBF" />
+      <stop offset="1" stop-color="#4286F5" />
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M0 0H1200V145C1015 188 805 151 600 151C395 151 185 188 0 145V0Z"
+    fill="url(#header-gradient)"
+  />
+
+  <text
+    x="600"
+    y="72"
+    fill="white"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="42"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    Michael Douglas
+  </text>
+  <text
+    x="600"
+    y="108"
+    fill="white"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="19"
+    text-anchor="middle"
+  >
+    Desenvolvedor Full Stack | Web &amp; Mobile
+  </text>
+</svg>
