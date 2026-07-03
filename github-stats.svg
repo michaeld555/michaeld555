@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Michael Douglas, Rank: C+</title>
-        <desc id="descId">Total de estrelas: 24, Total de Commits  (Ano passado) : 10, Total de PRs: 4, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 24, Total de Commits  (Ano passado) : 11, Total de PRs: 4, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #F05340;
+            fill: #4286F5;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #FF2D20;
+      fill: #4286F5;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #F05340;
+      stroke: #4286F5;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #F05340;
+      stroke: #4286F5;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.1981830437564;
+        stroke-dashoffset: 208.08537737073385;
       }
     }
   
@@ -177,7 +177,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >10</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
